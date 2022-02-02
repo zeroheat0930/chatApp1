@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487473289761",
+    "project_id": "zeroheat-9a462",
+    "storage_bucket": "zeroheat-9a462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487473289761:android:9ec0e58314db194a31a160",
+        "android_client_info": {
+          "package_name": "com.example.flutter20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487473289761-31eid2hcfsa1sah6psrfbq9e2bvjqqmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8KkIJkF4OAbQhUyHaw6i3g0pNK2uOmcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487473289761-31eid2hcfsa1sah6psrfbq9e2bvjqqmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
